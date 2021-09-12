@@ -48,7 +48,9 @@ browsealbe = yes**<br/>
 15.	After all the setting up has finished. Reboot the pi and type the following into your terminal to check if the USB drive whether is mounted by system automatically or not.<br/>
 **sudo lsblk**
 16.	Press “windows + R”. Type the pi’s ip and share name<br/>
-**\\192.168.0.109\Cloud**
+**\\\192.168.0.109\Cloud**<br/>
+![alt text for screen readers](https://github.com/blive0321/RaspberryPi-Samba-NFS/blob/main/nfs.jpeg "NFS on the file explorer")
 17.	You can also type the following URL into web browser<br/>
-**file://192.168.0.109/Cloud/**
+**file://192.168.0.109/Cloud/**<br/>
+![alt text for screen readers](https://github.com/blive0321/RaspberryPi-Samba-NFS/blob/main/nfs2.jpg "NFS on the web browser")
 18.	Congratulation! You've finished the NFS. Now that you can share the files between Linux & Windows machine in the local area network.
