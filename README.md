@@ -1,5 +1,5 @@
-# RaspberryPi-Samba-NFS
-:memo:I made a NFS Server by USB drive. Now I can share the files between Linux &amp; Windows machine in the local area network.
+# RaspberryPi-Samba-NAS
+:memo:I made a NAS Server by USB drive. Now I can share the files between Linux &amp; Windows machine in the local area network.
 
 :pushpin:`========== [Configuration] ==========`
 1.	Raspberry Pi 3 Model B
@@ -49,8 +49,8 @@ browsealbe = yes**<br/>
 **sudo lsblk**
 16.	Press “windows + R”. Type the pi’s ip and share name<br/>
 **\\\192.168.0.109\Cloud**<br/>
-![alt text for screen readers](https://github.com/blive0321/RaspberryPi-Samba-NFS/blob/main/nfs.jpeg "NFS on the file explorer")
+![alt text for screen readers](https://github.com/blive0321/RaspberryPi-Samba-NAS/blob/main/nfs.jpeg "AS on the file explorer")
 17.	You can also type the following URL into web browser<br/>
 **file://192.168.0.109/Cloud/**<br/>
-![alt text for screen readers](https://github.com/blive0321/RaspberryPi-Samba-NFS/blob/main/nfs2.jpg "NFS on the web browser")
-18.	Congratulation! You've finished the NFS. Now that you can share the files between Linux & Windows machine in the local area network.
+![alt text for screen readers](https://github.com/blive0321/RaspberryPi-Samba-NAS/blob/main/nfs2.jpg "NAS on the web browser")
+18.	Congratulation! You've finished the NAS . Now that you can share the files between Linux & Windows machine in the local area network.
