@@ -53,6 +53,7 @@ browsealbe = yes**<br/>
 17.	You can also type the following URL into web browser<br/>
 **file://192.168.0.109/Cloud/**<br/>
 ![alt text for screen readers](https://github.com/blive0321/RaspberryPi-Samba-NAS/blob/main/nfs2.jpg "NAS on the web browser")
-18. You can also browse the NAS on your iphone.
-![alt text for screen readers](https://github.com/blive0321/RaspberryPi-Samba-NAS/blob/main/iphone.jpeg "NAS on the iphone")
+18. You can also browse the NAS on your iphone. Select file app and click connect to server, type<br />
+**smb://192.168.0.109**<br />
+![alt text for screen readers](https://github.com/blive0321/RaspberryPi-Samba-NAS/blob/main/iphone.jpg "NAS on the iphone")
 19.	Congratulation! You've finished the NAS . Now that you can share the files between Linux & Windows machine in the local area network.
