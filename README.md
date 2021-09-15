@@ -49,8 +49,10 @@ browsealbe = yes**<br/>
 **sudo lsblk**
 16.	Press “windows + R”. Type the pi’s ip and share name<br/>
 **\\\192.168.0.109\Cloud**<br/>
-![alt text for screen readers](https://github.com/blive0321/RaspberryPi-Samba-NAS/blob/main/nfs.jpeg "AS on the file explorer")
+![alt text for screen readers](https://github.com/blive0321/RaspberryPi-Samba-NAS/blob/main/nfs.jpeg "NAS on the file explorer")
 17.	You can also type the following URL into web browser<br/>
 **file://192.168.0.109/Cloud/**<br/>
 ![alt text for screen readers](https://github.com/blive0321/RaspberryPi-Samba-NAS/blob/main/nfs2.jpg "NAS on the web browser")
-18.	Congratulation! You've finished the NAS . Now that you can share the files between Linux & Windows machine in the local area network.
+18. You can also browse the NAS on your iphone.
+![alt text for screen readers](https://github.com/blive0321/RaspberryPi-Samba-NAS/blob/main/iphone.jpeg "NAS on the iphone")
+19.	Congratulation! You've finished the NAS . Now that you can share the files between Linux & Windows machine in the local area network.
